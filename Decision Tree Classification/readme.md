@@ -1,7 +1,7 @@
 # Classification using Decision Tree
-<li>The dataset contains information from teachers' project applications to DonorsChoose.org including teacher attributes, school attributes, and the project proposals including application essays.</li>
-<li>- Download data from: https://www.kaggle.com/c/donorschoose-application-screening/data</li>
-<li>- Download Glovmodel from: https://nlp.stanford.edu/projects/glove/</li>
+The dataset contains information from teachers' project applications to DonorsChoose.org including teacher attributes, school attributes, and the project proposals including application essays.
+<li>Download data from: https://www.kaggle.com/c/donorschoose-application-screening/data</li>
+<li>Download Glovmodel from: https://nlp.stanford.edu/projects/glove/</li>
 
 # Models
 - [Decision Tree](https://github.com/Devarshi-Chauhan/projects/blob/master/Decision%20Tree%20Classification/Decision%20Tree.ipynb)
