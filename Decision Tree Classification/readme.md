@@ -3,7 +3,7 @@
 - Download data from: https://www.kaggle.com/c/donorschoose-application-screening/data
 - Download Glovmodel from: https://nlp.stanford.edu/projects/glove/
 
-# Moels
+# Models
 - [Decision Tree](https://github.com/Devarshi-Chauhan/projects/blob/master/Decision%20Tree%20Classification/Decision%20Tree.ipynb)
 - [Gradient Boosted Decision Tree]()
 <li>The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school.</li>
