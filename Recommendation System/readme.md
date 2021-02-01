@@ -6,7 +6,7 @@ The dataset contain 1,000,209 ratings of around 3,900 movies by 6,040 users.
 
 Here are the different notebooks:
 * [Data Manipulation](https://github.com/Devarshi-Chauhan/projects/blob/master/Recommendation%20System/Data%20Manipulation.ipynb): Loading and processing the users, movies, and ratings data to prepare them for input into my models.
-* [SVD Model](http://nbviewer.jupyter.org/github/khanhnamle1994/movielens/blob/master/SVD_Model.ipynb): Using the SVD approach
+* [SVD Model](https://github.com/Devarshi-Chauhan/projects/blob/master/Recommendation%20System/SVD%20model.ipynb): Using the SVD approach
 
 ## Requirements
 
