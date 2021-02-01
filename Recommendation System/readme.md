@@ -1,4 +1,3 @@
-<li>Download data from https://grouplens.org/datasets/movielens/1m/</li>
 # Recommendation Systems
 
 The dataset contain 1,000,209 ratings of around 3,900 movies by 6,040 users.
